@@ -1,0 +1,4 @@
+run:
+  issues-exit-code: 1
+linters:
+  enable-all: true
